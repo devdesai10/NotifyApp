@@ -1,0 +1,32 @@
+- Lasso Tool
+- Shape Tool
+- Recording Tool
+- PDF annotation
+- Document Management
+- Unlimited Nested Folders
+- Custom Pens/Highlighters
+- Ruler Tool
+- Import Docs/images
+	- Import PDFs, PPTX, Scan Docs
+- Ability to search through notes with text recognition
+- Undo / Redo Gestures
+- Palm Rejection
+- Left Hand Support
+- Flexible Scrolling (Horizontal / Vertical)
+- Custom Fonts
+- Note Sharing
+- Presentation mode
+- Auto backups to google drive
+- Multi Note Support
+- Password protected notes (locked notes)
+- Paper Templates
+- Tabs for Documents
+- Dates Go into Calendars
+- Database Blocking
+- Text Editor
+- Saving and Displaying Bookmarks
+- Board Database Block
+- To-do list
+- Public Pages
+- Ability to customize UI
+- 
